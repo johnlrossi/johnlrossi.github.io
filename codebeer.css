@@ -1,0 +1,107 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+      width: 100%;
+    }
+    body {
+       width: 100%;
+       height: 100%;
+    }
+
+    header {
+        background-color:#C02410 ;
+        padding: 5px;
+        font-size: 20px;
+        font-family: Georgia;
+        color: white;
+        display: block;
+        position: relative;
+        max-height: 70px;
+        text-align: center;
+        width: 100%;
+    }
+    nav {
+        background-color: #383538;
+        padding: 5px;
+        width: 100%;
+        color: white;
+        float: left;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        vertical-align: middle;
+        margin: 0 auto;
+
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+        text-align: center;
+    }
+    nav li a {
+        display: block;
+        border: solid black;
+        color: white;
+        font-family: georgia;
+        font-size: 20px;
+        height: 25px;
+        padding: 10px 10px 10px 10px;
+        width: 200px;
+        text-align: center;
+
+    }
+    a {
+        color: ;
+    }
+
+    .checkbox {
+      width: 50%;
+    }
+
+    section {
+        margin: auto;
+        width: 100%;
+        text-align: center;
+        float: left;
+    }
+    section h3 {
+      font-size: 30px;
+      font-style: georgia;
+    }
+    section p {
+      margin: auto;
+      font-size: 15px;
+      font-style: georgia;
+      width: 50%;
+      text-align: center;
+    }
+
+    .font {
+      font-style: georgia;
+    }
+
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
